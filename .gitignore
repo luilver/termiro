@@ -9,5 +9,8 @@
 
 Gemfile.lock
 
+notes.txt
+
+
 # rspec failure tracking
 .rspec_status
