@@ -22,9 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
-
-Once Termiro is added to your project create a folder called 'graphics' on your main working directory.
+Once Termiro is [installed](#installation) in your project create a folder called 'graphics' on your main working directory.
 
 ```
 mkdir graphics
