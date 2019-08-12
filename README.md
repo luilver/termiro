@@ -1,6 +1,11 @@
 ![logo](logo.png)
 
-TODO: Delete this and the text above, and describe your gem
+Termiro helps you to add colorful titles and graphics to your CLI apps.
+
+While working on a few personal projects like [battle_ship](https://github.com/jo-quin/battle_ship) where I added graphics and messages to enhance the user experience, I found a convenient way to create and display 8-bit looking images.
+
+Now I have extracted this code into a Ruby Gem which makes it easy to use in future apps and easy to share with the community.
+Termiro is an [open source](#license) project, therefore, everyone is welcome to use it and [contribute](#contributing).
 
 ## Installation
 
